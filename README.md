@@ -2,7 +2,9 @@
 
 Meu nome é Jean, mas pode me chamar de JJ, sou estagiário na área de desenvolvimento de sistemas (mais especificamente trabalhando com C# com o framework .Net), além disso, sou estudante do Bacharelado Interdisciplinar em Ciência e Tecnologia pela Universidade Federal da Bahia, e também estou em uma empresa júnior ([EJC&T](https://www.linkedin.com/company/ejcet/about/)) voltada para área de desenvolvimento de software.
 
-### Para saber o que estou fazendo:
+#### Desenvolvedor de Software | Back End | C# | DotNet | JavaScript | NodeJS | PostgreSQL | GIT | GitHub
+
+#### Para saber o que estou fazendo:
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/jean-jesus-86475a59/)
 
