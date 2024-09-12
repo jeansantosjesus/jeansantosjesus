@@ -27,4 +27,4 @@ Meu nome é Jean, mas pode me chamar de JJ, sou estagiário na área de desenvol
 
 > Líderes genuínos são aqueles que têm um profundo conhecimento sobre suas responsabilidades e estão determinados a cumpri-las - Daisaku Ikeda
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanNewb&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeansantosjesus&theme=dark&layout=compact)
